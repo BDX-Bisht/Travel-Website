@@ -1,0 +1,92 @@
+@media only screen and (max-width:1100px){
+    .header2 ul{
+        flex-wrap: wrap;gap: 0px 24px !important;padding: 5px 0 !important;
+    }
+    .header2 ul li{
+        padding: 6px !important;
+    }
+    .container{max-width: 95% !important;padding: 0 !important;}
+}
+
+@media only screen and (max-width:992px){
+    .why_section .row{gap: 20px 0;}
+    .oiuhghjk .khgfghjkiuygv{
+        font-size: 35px;
+    }
+}
+
+@media only screen and (max-width:768px){
+    .oiuhghjk {
+        background: linear-gradient(0deg,#000000e5 40%,#fff0 80%);
+      }
+    header{min-height: fit-content;}
+    .main_index_div{margin-top: 3.5em;}
+    .header1{
+        background: var(--main-clr) !important;
+    }
+    .logo_img img{filter: invert(1);}
+    .header1 a{color: #fff;padding: 0 !important;}
+    .header2{
+        position: absolute;top: 100%;width:70%;right: 0;height: 100vh;background: #fff !important;color: #000;transform: translateX(100%);transition: all ease-in-out .2s;
+    }
+    .header2.active{transform: translateX(0);;box-shadow: -6px 0 10px rgb(0,0,0,0.6);}
+    .header2 ul{
+        flex-direction: column;align-items: start !important;
+    }
+    .header2 ul li {border-bottom: 1px solid #ccc;width: 100%;padding: 10px 15px !important;}
+    .header2 li i{display: none !important;}
+    .header2 li:hover .vihghjiijh{display: none;}
+    .header2 a{color: #292929 !important;transition: all ease-in-out .1s;font-size: 14px;}
+    .header2 a:hover{color: var(--main-clr);}
+    .poiuytokm{padding: 5px 15px;}
+    .poiuytokm>div{padding: 4px 0}
+    .poiuytokm>div a{font-weight: 600;;}
+    .oiuhgvhj{height: 300px;}
+    .ghuijhgvhjkj{height: 400px;}
+    .fvgtyuioijhv h1{font-size: 30px;}
+    .fvgtyuioijhv h2{font-size: 20px;}
+    .upcoming_trips .dfgyuioijhgv, .explore_more .oiuygfdfghjkl{height: 250px !important;}
+    .about_section .ftyuiokjhbiuhgfc .oiuygfghjk::after{
+        display: none;
+    }
+    .testimonial_section{
+        padding: 25px 25px !important;
+    }
+    .bdx_caraousel .iuygfdfghj h1,
+    .faq_section h1,
+    .fetured_section h1{
+        font-size: 30px;
+    }
+    .oiuygfghuiopoiuh{
+        margin-top: -4rem;
+    }
+    .ruigeiugbbiwfbw{
+        align-items: center !important;
+    }
+    .reviews .img{height: 25px;}
+    .reviews h3{text-align: center;font-size: 11px;}
+    .oiuhghjk .khgfghjkiuygv{
+        font-size: 30px;
+    }
+    .oiuhghjk .badge_uhgvb{font-size: 20px;font-weight: 500;margin-top: 1rem;}
+    .itinerary_section h1{font-size: 26px;}
+    .dfghjklkjhbgvc{top: 4.5rem;}
+    .fgyuioijhbvijh{white-space: nowrap;overflow: auto;gap: 25px;scrollbar-color: var(--main-clr);scrollbar-width: none;}
+    .fgyuioijhbvijh::-webkit-scrollbar {display: none;}
+}
+
+
+@media only screen and (max-width:450px){
+    .why_section .row .col-6{
+        width: 100%;
+    }
+    .ghuijhgvhjkj{height: 350px;}
+    .iuhiuhjkiujiuh{
+        font-size: 12px;
+    }
+    .oiuhghjk .khgfghjkiuygv{
+        font-size: 24px;
+    }
+    .oiuhghjk .badge_uhgvb{font-size: 14px;font-weight: 500;margin-top: 1rem;}
+    .itinerary_section h1{font-size: 22px;}
+}
