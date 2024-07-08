@@ -5,7 +5,7 @@
     .header2 ul li{
         padding: 6px !important;
     }
-    .container{max-width: 95% !important;padding: 0 !important;}
+    .container{max-width: 95% !important;}
 }
 
 @media only screen and (max-width:992px){
@@ -89,4 +89,6 @@
     }
     .oiuhghjk .badge_uhgvb{font-size: 14px;font-weight: 500;margin-top: 1rem;}
     .itinerary_section h1{font-size: 22px;}
+    .faq_section .accordion-button{font-size: 12px;}
+    .bdx_caraousel .iuygfdfghj h1, .faq_section h1, .fetured_section h1{font-size: 20px;}
 }
