@@ -6,12 +6,16 @@
         padding: 6px !important;
     }
     .container{max-width: 95% !important;}
+    .iuygtfgtyuiolkewref .col_custom{width: calc(100% / 4);}
 }
 
 @media only screen and (max-width:992px){
     .why_section .row{gap: 20px 0;}
     .oiuhghjk .khgfghjkiuygv{
         font-size: 35px;
+    }
+    .representative_div{
+        grid-template-columns: repeat(1,1fr);
     }
 }
 
@@ -73,6 +77,10 @@
     .dfghjklkjhbgvc{top: 4.5rem;}
     .fgyuioijhbvijh{white-space: nowrap;overflow: auto;gap: 25px;scrollbar-color: var(--main-clr);scrollbar-width: none;}
     .fgyuioijhbvijh::-webkit-scrollbar {display: none;}
+    .iuygtfgtyuiolkewref .col_custom{width: calc(100% / 3);}
+    .iuygtfgtyuiolkewref .row{gap: 3rem 0;margin-bottom: 3rem !important;}
+    .address_div>div{width: 100% !important;border: 0 !important;padding: 25px !important;}
+    .address_div>div:nth-child(1){border-bottom: 1px solid #7f8e9e !important;}
 }
 
 
@@ -92,4 +100,5 @@
     .faq_section .accordion-button{font-size: 12px;}
     .bdx_caraousel .iuygfdfghj h1, .faq_section h1, .fetured_section h1{font-size: 20px;}
     .faq_section .accordion-body{font-size: 12px;}
+    .iuygtfgtyuiolkewref .col_custom{width: calc(100% / 1);}
 }
