@@ -184,22 +184,17 @@ footer .img{height: 45px;width: 45px;}
 }
 
 .oiuygtfghjk .fghuioolkjh{
-    top:11px;left: 10px;
+    top:9px;left: 10px;
 }
 .oiuygtfghjk input{
     width: 100%;border: 1px solid #777;border-radius: 4px;padding: 8px;padding-left: 33px;font-size: 16px;outline: none;
 }
-.oiuygtfghjk input[type="number"]::-webkit-inner-spin-button,
-.oiuygtfghjk input[type="number"]::-webkit-outer-spin-button {
+.yfuydtrsheagr input[type="number"]::-webkit-inner-spin-button,
+.yfuydtrsheagr input[type="number"]::-webkit-outer-spin-button {
     -webkit-appearance: none;margin: 0;
 }
-.oiuygtfghjk input[type="number"] {
+.yfuydtrsheagr input[type="number"] {
     -moz-appearance: textfield;
-}
-.oiuygtfghjk input::placeholder,
-.oiuygtfghjk input:-ms-input-placeholder,
-.oiuygtfghjk input::-ms-input-placeholder {
-    color: #000000;
 }
 .oiuygtfghjk input:focus{
     outline: 1px solid var(--main-clr);
@@ -229,7 +224,7 @@ footer .img{height: 45px;width: 45px;}
     display: grid;grid-template-columns: repeat(4,1fr);height: 50px;gap: 8px;
 }
 .itinerary_section h1{
-    font-size: 40px;
+    font-size: 30px;
 }
 .fguijhboiuhg i{
     font-size: 22px;color: var(--main-clr);
@@ -243,19 +238,15 @@ footer .img{height: 45px;width: 45px;}
 }
 
 .dfghjklkjhbgvc {
-    position:-webkit-sticky;top: 8rem;position: sticky;z-index: 4;
+    position:-webkit-sticky;top: 7.5em;position: sticky;z-index: 4;
 }
 
 .hdfrgtyuioiuhg,.oiuygfghuji li{
     color: rgb(61, 61, 61);text-align: justify;text-justify: inter-word;font-size: 16px;font-style: normal;font-weight: 400;line-height: 24px;letter-spacing: 0.08px;
 }
-.oiuygfghuji li{list-style: none;}
 
 .dfghujikijhiuyg{
-    border: 1px solid var(--main-clr);border-radius: 4px;padding: 5px 10px;width: fit-content;font-size: 14px;color: var(--main-clr);
-}
-.oiuygfghuji li::before{
-    content:'';display:inline-block;background: url(../images/check-mark.png);height: 15px ;width: 15px;background-position: center;background-size: cover;background-repeat: no-repeat;margin-right: 10px;
+    background: var(--main-clr);border-radius: 4px;padding: 5px 10px;width: fit-content;font-size: 14px;color: #fff;
 }
 .dfgyuiolokjhg{
     background: #f5fff6;
@@ -343,4 +334,27 @@ footer .img{height: 45px;width: 45px;}
 }
 .representative_div .username a{
     font-size: 14px;font-weight: 700;
+}
+
+.fs-7{
+    font-size: 14px;
+}
+.yfuydtrsheagr input{
+    padding: 1rem !important;padding-top: 1.625rem !important;
+}
+.yfuydtrsheagr input:focus, .yfuydtrsheagr textarea:focus{
+    box-shadow: none;border: 2px solid var(--main-clr);
+}
+.yfuydtrsheagr label{
+    padding: 1rem ;color: #8d8d8d;font-size: 14px;
+}
+
+.woirguheworgu{
+    position: absolute;top: -15px;right: 6px;background: white;padding: 7px 10px;border: 1px solid #ccc;border-radius: 50%;box-shadow: 0 0 10px #00000030;cursor: pointer;transition: all ease-in-out .3s;
+}
+.woirguheworgu:hover{
+    transform: rotate(90deg);
+}
+.sendEnquiryImage{
+    height: 60px;width: 60px;border-radius: 6px;overflow: hidden;
 }

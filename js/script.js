@@ -131,3 +131,12 @@ function ItiniearyFunction (){
         }
     })
 }
+
+
+function EnquiryModalOpen(img,description,price,c_price){
+    $("#enquiry_modal").modal("show")
+    $("#enuiry_desc").text(description)
+    $("#enquiryModalImg").attr("src",img)
+    $("#modalPrice").text(`INR ${price}`)                  
+    $("#modalPriceCut").text(`INR ${c_price}`)
+}
