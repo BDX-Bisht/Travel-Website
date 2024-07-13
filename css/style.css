@@ -337,7 +337,7 @@ footer .img{height: 45px;width: 45px;}
 }
 
 .fs-7{
-    font-size: 14px;
+    font-size: 13px;
 }
 .yfuydtrsheagr input{
     padding: 1rem !important;padding-top: 1.625rem !important;
@@ -357,4 +357,99 @@ footer .img{height: 45px;width: 45px;}
 }
 .sendEnquiryImage{
     height: 60px;width: 60px;border-radius: 6px;overflow: hidden;
+}
+.tnqahethqeh34ghte{
+    margin-top: 8rem;background: #24bad7;color: #fff;border-radius: 8px;text-align: center;padding: 1rem .5rem;
+}
+.tnqahethqeh34ghte h1{
+    font-size: 45px;font-weight: bold;margin: 0;font-family: sans-serif;line-height: 1;
+}
+.tnqahethqeh34ghte p{
+    font-size: 30px;font-weight: 400;margin: 0;font-family: sans-serif;line-height: 1;
+}
+
+.car_container{
+    border: 1px solid #24bad7;border-radius: 8px;margin-top: 1rem;display: flex;box-shadow: 0 0 5px #00000015;flex-wrap: wrap;
+}
+.car_container .car_img{
+    width: 100px;
+}
+.car_container .rate_tax{
+    background: #f8f8f8;width: 50%;display: flex;gap: 15px;align-items: start;height: 100%;padding: 8px 0;
+}
+.car_container .rate_tax img{width: 30px;}
+.car_container .rate_tax p{font-size: 10px;font-weight: 600;margin-bottom: 0;}
+.car_container .price{
+    background: #f3f3f3;width: 50%;display: flex;padding-right: 20px;align-items: center;
+}
+.car_container .price>div{
+    width: 50%;text-align: end;
+}
+
+.car_container .price .main_price{
+    color: #22a9d7;font-size: 24px;font-weight: 600;line-height: 1.2;
+}
+.car_container .price .km_info{
+    font-size: 12px;font-weight: 600;
+}
+.car_container .price .cut_price{
+    color: #45bd6b;text-decoration: line-through;font-weight: 600;font-size: 16px;
+}
+.car_container .price .dav_price{
+    color: #b12704;font-size: 14px;
+}
+.car_container .erinohgq3498gu{
+    display: grid;place-items: center;width: 100%;height: 100%;
+}
+.car_container .erinohgq3498gu a{
+    padding: 8px 30px;background: #22a9d7;color: #fff;border-radius: 6px;font-size: 16px;font-weight: 600;
+}
+
+.fouth_form{
+    border-radius: 10px;box-shadow: 0 4px 8px #01010133;padding: 1rem;
+}
+
+.fouth_form .heading_form{
+    border-top: 2px solid #22a9d7;border-bottom: 2px solid #22a9d7;padding: 4px 20px;font-size: 18px;font-weight: 600;
+}
+
+.fouth_form label{
+    font-size: 12px;font-weight: 500;text-transform: uppercase;
+}
+.fouth_form input ,.fouth_form select{
+    border: 0;outline: none;padding: 4px 0;border-bottom: 1px solid #ccc;font-size: 12px;width: 100%;background: transparent;
+}
+.fouth_form input[type="number"]::-webkit-inner-spin-button,
+.fouth_form input[type="number"]::-webkit-outer-spin-button {
+    -webkit-appearance: none;margin: 0;
+}
+.fouth_form input[type="number"] {
+    -moz-appearance: textfield;
+}
+
+.fouth_form button{
+    margin-top: 1.5rem;width: 100%;text-align: center;padding: 8px;font-size: 16px;font-weight: 600;border-radius: 8px;border: 0;outline: none;background: #22a9d7;color: #fff;
+}
+
+.uwrgbwreogu43tr{
+    border-radius: 10px;box-shadow: 0 4px 8px #01010133;overflow: hidden;font-size: 13px;
+}
+.uwrgbwreogu43tr .heading_main{
+    text-align: center;padding: 5px;font-size: 14px;background: #22a9d7;color: #fff;text-transform: uppercase;
+}
+
+.gwuio3a42839{
+    display: flex;align-items: center;justify-content: space-between;border-radius: 5px;background: #f8f8f8;overflow: hidden;
+}
+.gwuio3a42839>div{
+    width: calc(100% / 3);text-align: center;cursor: pointer;font-size: 14px;padding: 4px 0;
+}
+.gwuio3a42839>div.active{
+    background: #22a9d7;color: #fff;
+}
+.t2rgfvewh {
+    display: none;
+}
+.t2rgfvewh.active{
+    display: block;
 }

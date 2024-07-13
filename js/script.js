@@ -140,3 +140,11 @@ function EnquiryModalOpen(img,description,price,c_price){
     $("#modalPrice").text(`INR ${price}`)                  
     $("#modalPriceCut").text(`INR ${c_price}`)
 }
+
+$(".uga3ro28h3423r").click(function(){
+    let ids = $(this).attr("id");
+    $(".uga3ro28h3423r").removeClass("active")
+    $(".t2rgfvewh").removeClass("active")
+    $(this).addClass("active")
+    $(`.${ids}`).addClass("active")
+})

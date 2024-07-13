@@ -7,6 +7,12 @@
     }
     .container{max-width: 95% !important;}
     .iuygtfgtyuiolkewref .col_custom{width: calc(100% / 4);}
+    .tnqahethqeh34ghte{
+        margin-top: 10rem;
+    }
+    .tnqahethqeh34ghte h1{
+        font-size: 40px;
+    }
 }
 
 @media only screen and (max-width:992px){
@@ -81,6 +87,10 @@
     .iuygtfgtyuiolkewref .row{gap: 3rem 0;margin-bottom: 3rem !important;}
     .address_div>div{width: 100% !important;border: 0 !important;padding: 25px !important;}
     .address_div>div:nth-child(1){border-bottom: 1px solid #7f8e9e !important;}
+    .tnqahethqeh34ghte{margin-top: 5rem;}
+    .tnqahethqeh34ghte h1{font-size: 30px;line-height: 1.3;}
+    .tnqahethqeh34ghte p{font-size: 25px;}
+    .car_container .erinohgq3498gu a{width: 90%;margin: auto;text-align: center;}
 }
 
 
@@ -110,4 +120,9 @@
         font-size: 18px;
     }
     .oiuygtfdfghjkl{height: 200px;}
+    .tnqahethqeh34ghte h1{font-size: 20px;margin-bottom: 10px;}
+    .tnqahethqeh34ghte p{font-size: 18px;}
+    .car_container .price,.car_container .rate_tax{width: 100%;height: auto;}
+    .car_container .rate_tax{align-items: center;justify-content: center;gap: 30px;}
+    .car_container .price > div{text-align: center;padding: 10px 0;}
 }
